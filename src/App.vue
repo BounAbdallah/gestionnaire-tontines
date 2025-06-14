@@ -43,11 +43,7 @@
           </button>
         </form>
         
-        <div class="mt-4 sm:mt-6 text-center text-xs sm:text-sm text-slate-500 bg-slate-50 p-3 rounded">
-          <p class="font-medium mb-1">Identifiants par défaut:</p>
-          <p>Utilisateur: <strong>admin</strong></p>
-          <p>Mot de passe: <strong>admin123</strong></p>
-        </div>
+       
       </div>
     </div>
 
